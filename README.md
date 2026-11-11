@@ -2,6 +2,14 @@
 
 Welcome to the Java SDE Learning Path Repository! This comprehensive guide is designed to equip you with the essential skills needed to excel as a Software Development Engineer (SDE), with a strong focus on Java programming. Whether you're starting as a fresher or looking to refine your skills, this roadmap will guide you through Java concepts, data structures, algorithms, problem-solving techniques, interview prep, and career development.
 
+## Repository Contents
+
+| File | Description |
+| --- | --- |
+| [`Sheet`](Sheet) | Plain-text roadmap with 20 numbered steps grouped into the sections below, each with short action items. |
+
+The repository contains the roadmap only (no code or exercises).
+
 ## Key Sections
 
 - **Java Basics:** Master fundamental Java concepts and Object-Oriented Programming (OOP) principles.
